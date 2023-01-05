@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "firstname": "pratik",
+      "lastname": "derepatil",
+      "phone": 123456890,
+      "password": 123456,
+      "otp": 1234,
+      "email": "abc@gmail.com",
+      "id": 1
+    },
+    {
+      "firstname": "pratik",
+      "lastname": "derepatil",
+      "phone": 123456890,
+      "password": "1234",
+      "otp": 1234,
+      "email": "xyz@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "email": "abcd@gmail.com",
+      "password": "12345",
+      "otp": "4321",
+      "firstname": "pratik",
+      "lastname": "dere",
+      "phone": "1234567654",
+      "id": 5
+    },
+    {
+      "email": "safas@gmail.com",
+      "password": "123",
+      "otp": "1234",
+      "firstname": "as",
+      "lastname": "asfasf",
+      "phone": "124",
+      "id": 6
+    },
+    {
+      "email": "pratik@gmail.com",
+      "password": "123456",
+      "otp": "1234",
+      "firstname": "Pratik",
+      "lastname": "Derepatil",
+      "phone": "7745081531",
+      "id": 7
+    }
+  ]
+}
